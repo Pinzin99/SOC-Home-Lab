@@ -41,5 +41,13 @@ This project demonstrates the deployment and configuration of a Security Operati
 
 <img width="1570" height="1456" alt="Screenshot 2026-09-09 122603" src="https://github.com/user-attachments/assets/9461a907-7b1b-4e48-8034-fdff1502e019" />
 
+## Key Security Concepts Applied
+* **Host Intrusion Detection (HIDS):** Real-time monitoring of the windows file modifications, registry changes,and process excution.
+*  **Log Aggregation & Parsing:** Centralizing Windows Security Event IDs into structured JSON for alert generation.
+*  **Detection Engineering:** Observing how raw network attacks map to MITRE ATTACK framework techniques inside the Wazuh Dashboard.
 
+## Tools Used 
+* ** Wazuh SIEM / Indexer / Dashboard**
+* **Kali Linux**
+* **VMware / Hyper-v**
 
