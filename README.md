@@ -47,7 +47,7 @@ This project demonstrates the deployment and configuration of a Security Operati
 *  **Detection Engineering:** Observing how raw network attacks map to MITRE ATTACK framework techniques inside the Wazuh Dashboard.
 
 ## Tools Used 
-* ** Wazuh SIEM / Indexer / Dashboard**
+* **Wazuh SIEM / Indexer / Dashboard**
 * **Kali Linux**
 * **VMware / Hyper-v**
 
